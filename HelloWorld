@@ -1,0 +1,5 @@
+This is a markdown file
+$ git add-A
+$ git commit -m 'Added my project'
+$ git remote add origin git@github.com:gdlfn/datasciencecoursera.git
+$ git push -u -f origin master
